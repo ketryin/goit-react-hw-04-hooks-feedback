@@ -1,0 +1,9 @@
+.listBtn {
+  margin: 10px 0;
+  display: flex;
+}
+.btn {
+  margin-right: 10px;
+  width: 80px;
+  text-transform: uppercase;
+}
